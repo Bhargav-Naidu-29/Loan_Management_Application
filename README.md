@@ -189,12 +189,6 @@ Sample data helpers exist under `backend/scripts` (see `add-sample-data`).
 
 ---
 
-## Contributing
-
-Contributions are welcome. Please open issues for bugs or feature requests. For code contributions, fork the repo, create a feature branch, and submit a pull request.
-
----
-
 ## License
 
 MIT
